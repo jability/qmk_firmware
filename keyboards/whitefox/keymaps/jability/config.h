@@ -1,0 +1,2 @@
+#define TAPPING_TERM 175
+#define LCPO_KEYS KC_LCTL, KC_LCTL, KC_B
